@@ -1,4 +1,4 @@
-package P4;
+package P4_ObjectRelation;
 
 public class MainPertanyaan {
     public static void main(String[] args) {

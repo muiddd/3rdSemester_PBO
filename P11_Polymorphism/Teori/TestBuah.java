@@ -6,8 +6,8 @@ public class TestBuah {
         Pisang myPisang = new Pisang();
         Durian myDurian = new Durian();
 
+        ilham.MakanBuah(myApel);
         ilham.MakanBuah(myPisang);
         ilham.MakanBuah(myDurian);
-        ilham.MakanBuah(myApel);
     }
 }

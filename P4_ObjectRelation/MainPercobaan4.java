@@ -1,4 +1,4 @@
-package P4;
+package P4_ObjectRelation;
 
 public class MainPercobaan4 {
     public static void main(String[] args) {

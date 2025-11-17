@@ -1,4 +1,4 @@
-package P4;
+package P4_ObjectRelation;
 
 public class Pegawai {
     private String nip;
