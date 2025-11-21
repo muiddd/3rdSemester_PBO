@@ -1,4 +1,4 @@
-package P5_Kuis;
+package P5_Quiz1;
 
 public class SpaceShuttle {
     private String Kode;
